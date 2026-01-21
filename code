@@ -1,0 +1,153 @@
+<table cellpadding="0" cellspacing="0" border="0"
+       style="font-family: Arial, Helvetica, sans-serif; font-size:14px; color:#1a1a1a;">
+  <tr>
+    <!-- LEFT: CERT LOGOS (STACKED) -->
+    <td valign="top" style="padding:0 18px 0 0;">
+      <table cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td style="padding:0 0 10px 0;">
+            <img src="https://github.com/allforwaterusa-hub/signature/blob/main/image1.png?raw=true"
+                 width="70" alt="Water Quality Association"
+                 style="display:block; border:0; outline:none;">
+          </td>
+        </tr>
+        <tr>
+          <td style="padding:0;">
+            <img src="https://github.com/allforwaterusa-hub/signature/blob/main/image2.png?raw=true"
+                 width="70" alt="Viqua Certified Installer"
+                 style="display:block; border:0; outline:none;">
+          </td>
+        </tr>
+      </table>
+    </td>
+
+    <!-- RIGHT: NAME + LINES + CONTACT + VENDORS -->
+    <td valign="top" style="padding:0;">
+
+      <!-- Name / Company -->
+      <div style="font-size:20px; font-weight:700; color:#2F5597; line-height:22px; margin:0;">
+        Richard Feldman, CWS
+      </div>
+      <div style="font-size:16px; font-weight:700; color:#2F5597; line-height:18px; margin:6px 0 0 0;">
+        Water Purification Supplies
+      </div>
+
+      <!-- LINE 1 (full width of content block) -->
+      <div style="border-top:2px solid #2F5597; margin:10px 0 10px 0; font-size:0; line-height:0;">
+        &nbsp;
+      </div>
+
+      <!-- Contact info (kept up next to cert logos) -->
+      <table cellpadding="0" cellspacing="0" border="0" style="font-size:14px;">
+        <tr>
+          <td valign="middle" style="padding:0 10px 8px 0;">
+            <img src="https://github.com/allforwaterusa-hub/signature/blob/main/image3.png?raw=true"
+                 width="16" height="16" alt="Phone"
+                 style="display:block; border:0; outline:none;">
+          </td>
+          <td valign="middle" style="padding:0 24px 8px 0;">
+            <a href="tel:+19543226666" style="color:#1a1a1a; text-decoration:none;">954-322-6666</a>
+         </td>
+        </tr>
+          <td valign="middle" style="padding:0 10px 8px 0;">
+            <img src="https://github.com/allforwaterusa-hub/signature/blob/main/image4.png?raw=true"
+                 width="16" height="16" alt="Web"
+                 style="display:block; border:0; outline:none;">
+          </td>
+          <td valign="middle" style="padding:0 0 8px 0;">
+            <a href="https://www.waterpurificationsupplies.com"
+               style="color:#1a1a1a; text-decoration:underline;">www.waterpurificationsupplies.com</a>
+          </td>
+        </tr>
+
+        <tr>
+          <td valign="middle" style="padding:0 10px 8px 0;">
+            <img src="https://github.com/allforwaterusa-hub/signature/blob/main/image5.png?raw=true"
+                 width="16" height="16" alt="Email"
+                 style="display:block; border:0; outline:none;">
+          </td>
+          <td valign="middle" colspan="3" style="padding:0 0 8px 0;">
+            <a href="mailto:richard@waterpurificationsupplies.com"
+               style="color:#1a1a1a; text-decoration:underline;">richard@waterpurificationsupplies.com</a>
+          </td>
+        </tr>
+
+        <tr>
+          <td valign="middle" style="padding:0;">
+            <img src="https://github.com/allforwaterusa-hub/signature/blob/main/image6.png?raw=true"
+                 width="16" height="16" alt="Mobile"
+                 style="display:block; border:0; outline:none;">
+          </td>
+          <td valign="middle" colspan="3" style="padding:0;">
+            <a href="tel:+13059652700" style="color:#1a1a1a; text-decoration:none;">+1-305-965-2700</a>
+          </td>
+        </tr>
+      </table>
+
+      <!-- LINE 2 (full width of content block) -->
+      <div style="border-top:2px solid #2F5597; margin:10px 0 14px 0; font-size:0; line-height:0;">
+        &nbsp;
+      </div>
+
+      <!-- Vendor logos: EXACTLY 2 rows, larger, never wrap -->
+      <table cellpadding="0" cellspacing="0" border="0">
+        <!-- ROW 1 -->
+        <tr>
+          <td style="padding:0 18px 12px 0;">
+            <img src="https://github.com/allforwaterusa-hub/signature/blob/main/image7.png?raw=true"
+                 height="48" alt="Clack" style="display:block; border:0; outline:none;">
+          </td>
+          <td style="padding:0 18px 12px 0;">
+            <img src="https://github.com/allforwaterusa-hub/signature/blob/main/image8.png?raw=true"
+                 height="48" alt="Toray" style="display:block; border:0; outline:none;">
+          </td>
+          <td style="padding:0 18px 12px 0;">
+            <img src="https://github.com/allforwaterusa-hub/signature/blob/main/image9.png?raw=true"
+                 height="48" alt="Viqua" style="display:block; border:0; outline:none;">
+          </td>
+          <td style="padding:0 18px 12px 0;">
+            <img src="https://github.com/allforwaterusa-hub/signature/blob/main/image10.png?raw=true"
+                 height="48" alt="Goulds Pumps" style="display:block; border:0; outline:none;">
+          </td>
+          <td style="padding:0 18px 12px 0;">
+            <img src="https://github.com/allforwaterusa-hub/signature/blob/main/image11.png?raw=true"
+                 height="48" alt="Procon" style="display:block; border:0; outline:none;">
+          </td>
+          <td style="padding:0 0 12px 0;">
+            <img src="https://github.com/allforwaterusa-hub/signature/blob/main/image12.png?raw=true"
+                 height="48" alt="CAT Pumps" style="display:block; border:0; outline:none;">
+          </td>
+        </tr>
+
+        <!-- ROW 2 -->
+        <tr>
+          <td style="padding:0 18px 0 0;">
+            <img src="https://github.com/allforwaterusa-hub/signature/blob/main/image13.png?raw=true"
+                 height="48" alt="CSM" style="display:block; border:0; outline:none;">
+          </td>
+          <td style="padding:0 18px 0 0;">
+            <img src="https://github.com/allforwaterusa-hub/signature/blob/main/image14.png?raw=true"
+                 height="48" alt="KingLee" style="display:block; border:0; outline:none;">
+          </td>
+          <td style="padding:0 18px 0 0;">
+            <img src="https://github.com/allforwaterusa-hub/signature/blob/main/image15.png?raw=true"
+                 height="48" alt="Resintech" style="display:block; border:0; outline:none;">
+          </td>
+          <td style="padding:0 18px 0 0;">
+            <img src="https://github.com/allforwaterusa-hub/signature/blob/main/image16.png?raw=true"
+                 height="48" alt="Matrixx" style="display:block; border:0; outline:none;">
+          </td>
+          <td style="padding:0 18px 0 0;">
+            <img src="https://github.com/allforwaterusa-hub/signature/blob/main/image17.png?raw=true"
+                 height="48" alt="Ozotech" style="display:block; border:0; outline:none;">
+          </td>
+          <td style="padding:0;">
+            <img src="https://github.com/allforwaterusa-hub/signature/blob/main/image18.png?raw=true"
+                 height="48" alt="Water Quality Association" style="display:block; border:0; outline:none;">
+          </td>
+        </tr>
+      </table>
+
+    </td>
+  </tr>
+</table>
